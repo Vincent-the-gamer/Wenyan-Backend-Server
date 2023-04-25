@@ -12,7 +12,7 @@ Go to the repo: [Wenyan-lang 文言文編程语言](https://github.com/wenyan-la
 
 ### Clone This Repository
 ~~~shell
-git clone xxxx
+git clone https://github.com/Vincent-the-gamer/Wenyan-Backend-Server.git
 ~~~
 
 ### Install Dependency

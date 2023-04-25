@@ -12,7 +12,7 @@ English Version: [README.md](./README.md)
 
 ### 拉取代码
 ~~~shell
-git clone xxxx
+git clone https://github.com/Vincent-the-gamer/Wenyan-Backend-Server.git
 ~~~
 
 ### 安装依赖

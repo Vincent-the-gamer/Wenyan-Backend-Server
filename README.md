@@ -63,7 +63,7 @@ axios.post("http://localhost:8080/runCode",{
 ~~~
 
 ## Deploy
-This repo is "deploy ready", which means the the only 2 things you need to do are:
+This repo is "Deploy Ready", which means the only 2 things you need to do are:
 
 1. Copy the repo to your server, or directly `git clone` this repo on your server
 

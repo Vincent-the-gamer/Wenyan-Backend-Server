@@ -1,0 +1,16 @@
+{
+  "name": "wenyan-server",
+  "version": "1.0.0",
+  "description": "文言编译服务端 A Wenyan-lang compiling server",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wenyan/cli": "^0.3.4",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "shelljs": "^0.8.5"
+  }
+}

@@ -66,6 +66,8 @@ axios.post("http://localhost:8080/runCode",{
 现在你可以使用文渊阁来扩展代码的功能
 
 **举个栗子🌰:**
+
+* 安装
 ~~~shell
 # 安装子曰库
 # Windows
@@ -74,6 +76,17 @@ sh wyg.sh i ziyue
 # macOS/Linux
 ./wyg.sh i ziyue
 ~~~
+
+* 使用
+~~~wy
+吾嘗觀「「子曰」」之書。方悟「子曰」之義。
+
+子曰「「xxx明天要变娃写代码！」」。 
+~~~
+![ziyue](./.github/ziyue.png)
+
+来这里探索更多文渊阁的奥秘吧：[https://github.com/wenyan-lang/wyg](https://github.com/wenyan-lang/wyg)
+
 
 ## 部署
 这个项目是直接可以部署的，这意味着你只需要两步即可部署。

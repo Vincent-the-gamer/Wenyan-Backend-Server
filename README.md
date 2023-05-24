@@ -62,10 +62,13 @@ axios.post("http://localhost:8080/runCode",{
 )
 ~~~
 
-#### Wyg(文渊阁，文淵閣, Wenyan-get) support
+#### Wyg(文渊阁, 文淵閣, Wenyan-get) is supported now!
+
 Now you can use `wyg packages` in your code.
 
 **Example:**
+
+* Install
 ~~~shell
 # install package ziyue(子曰)
 # Windows
@@ -74,6 +77,17 @@ sh wyg.sh i ziyue
 # macOS/Linux
 ./wyg.sh i ziyue
 ~~~
+
+* Usage
+~~~wy
+吾嘗觀「「子曰」」之書。方悟「子曰」之義。 
+
+子曰「「xxx明天要变娃写代码！」」。 
+~~~
+![ziyue](./.github/ziyue.png)
+
+More about wyg：[https://github.com/wenyan-lang/wyg](https://github.com/wenyan-lang/wyg)
+
 
 ## Deploy
 This repo is "Deploy Ready", which means the only 2 things you need to do are:

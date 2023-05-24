@@ -62,6 +62,19 @@ axios.post("http://localhost:8080/runCode",{
 )
 ~~~
 
+#### 现已支持“文渊阁”包管理器
+现在你可以使用文渊阁来扩展代码的功能
+
+**举个栗子🌰:**
+~~~shell
+# 安装子曰库
+# Windows
+sh wyg.sh i ziyue
+
+# macOS/Linux
+./wyg.sh i ziyue
+~~~
+
 ## 部署
 这个项目是直接可以部署的，这意味着你只需要两步即可部署。
 1. 把这个项目从本地拷贝到服务器，或者直接在服务器上使用`git clone`命令拉取。

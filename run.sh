@@ -13,3 +13,4 @@ else
   # macOS/Linux
   ./wenyan ../../src/$1
 fi
+

@@ -62,6 +62,19 @@ axios.post("http://localhost:8080/runCode",{
 )
 ~~~
 
+#### Wyg(文渊阁，文淵閣, Wenyan-get) support
+Now you can use `wyg packages` in your code.
+
+**Example:**
+~~~shell
+# install package ziyue(子曰)
+# Windows
+sh wyg.sh i ziyue
+
+# macOS/Linux
+./wyg.sh i ziyue
+~~~
+
 ## Deploy
 This repo is "Deploy Ready", which means the only 2 things you need to do are:
 

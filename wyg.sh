@@ -16,9 +16,6 @@ fi
 
 # move file to src, then your .wy code can get access of wyg
 if [ "$1" == "i" ]; then
-  if [ ! -e "../../src/藏書樓" ]; then
-    mkdir ../../src/藏書樓
-  fi
-  mv ./藏書樓/* ../../src/藏書樓
+  mv ./藏書樓/* ../../src
   rm -r ./藏書樓
 fi

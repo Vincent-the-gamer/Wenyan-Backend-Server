@@ -1,5 +1,12 @@
-# Wenyan-lang Backend Server
+# Wenyan-lang Backend Server[deprecated]
 A server to compile wenyan-lang.
+
+
+# Deprecated
+
+Please use:  [https://github.com/Vincent-the-gamer/wenyan-api](https://github.com/Vincent-the-gamer/wenyan-api)
+
+
 
 **Based on Node.js Express**
 
@@ -45,7 +52,7 @@ const port = 8080
         "code": "吾有一數。曰三。名之曰「甲」。為是「甲」遍。吾有一言。曰「「問天地好在。」」。書之。云云。"
     }
     ~~~
-Then you will get your response:
+    Then you will get your response:
 ~~~
 問天地好在。
 問天地好在。
